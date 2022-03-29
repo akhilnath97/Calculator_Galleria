@@ -1,0 +1,12 @@
+*{
+    font-size: 110%;
+}
+.Calculator{
+    display: grid;
+    justify-content: space-around;
+    background-color: blueviolet;
+    color: antiquewhite;
+    text-align: center;
+
+}
+

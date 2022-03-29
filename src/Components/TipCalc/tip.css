@@ -1,0 +1,30 @@
+.inputs{
+display: grid;
+background-color: burlywood;
+color: black;
+font-weight: bolder;
+font-size: medium;
+justify-content: space-around;
+height: 45vh;
+
+}
+.end{
+   align-items: center;
+   display: grid;
+   justify-content: space-around;
+   text-align: center;
+   background-color: crimson;
+   color: white;
+   height: 45vh;
+   text-align: center;
+}
+.Main{
+    background-color: black;
+    color: goldenrod;
+    align-items: center;
+}
+.head{
+    display: grid;
+    align-items: center;
+    justify-content: space-around;
+}
